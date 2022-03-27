@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 34fd02b1-8fff-5413-1d5a-eabfc8e08f36
 resourcetype: Document
 title: 04b_duda.pdf
 uid: 21ba42db-35a4-1380-5229-a17b70ff0fb6

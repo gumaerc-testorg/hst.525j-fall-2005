@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 34fd02b1-8fff-5413-1d5a-eabfc8e08f36
 resourcetype: Document
 title: 06_damore.pdf
 uid: 93bc26ed-0a88-b11c-d865-ceafc63a4732

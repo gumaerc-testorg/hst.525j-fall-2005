@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6989b8ab-30b5-77c5-4691-0d6690ead82d
 resourcetype: Document
 title: samir_awasthi.pdf
 uid: 64879740-b8bf-c2c9-1565-849b61d9bd91

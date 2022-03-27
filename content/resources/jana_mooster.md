@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6989b8ab-30b5-77c5-4691-0d6690ead82d
 resourcetype: Document
 title: jana_mooster.pdf
 uid: 89a108cc-6fb9-431d-0ed0-aadc700c3861
