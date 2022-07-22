@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource is a term paper.
-file: /media/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/89a108cc6fb9431d0ed0aadc700c3861_jana_mooster.pdf
+file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/89a108cc6fb9431d0ed0aadc700c3861_jana_mooster.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: jana_mooster.pdf
 uid: 89a108cc-6fb9-431d-0ed0-aadc700c3861
 ---
+This resource is a term paper.
