@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/7b4ddb1a93cbafffbe68d93e5bd82988_hst-525jf05-th.jpg
+file_size: 5331
 file_type: image/jpeg
 image_metadata:
   caption: This tumor visualization window allows scientists to gain insight into
