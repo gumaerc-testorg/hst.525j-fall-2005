@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a term paper.
 file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/af03af1e8c68b1d427f4b55a345856dc_michael_schmidt.pdf
+file_size: 192318
 file_type: application/pdf
 learning_resource_types:
 - Assignments
