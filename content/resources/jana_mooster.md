@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a term paper.
-file: /ol-ocw-studio-app/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/89a108cc6fb9431d0ed0aadc700c3861_jana_mooster.pdf
+file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/89a108cc6fb9431d0ed0aadc700c3861_jana_mooster.pdf
 file_size: 59961
 file_type: application/pdf
 learning_resource_types:
