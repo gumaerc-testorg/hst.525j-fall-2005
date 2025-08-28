@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a term paper.
-file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/562e58977231af6860bcae8a15dc701b_jeff_hsu.pdf
+file: /ol-ocw-studio-app/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/562e58977231af6860bcae8a15dc701b_jeff_hsu.pdf
 file_size: 338201
 file_type: application/pdf
 learning_resource_types:

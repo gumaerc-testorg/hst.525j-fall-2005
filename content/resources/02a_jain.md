@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics interstitial and lymphatic
   transport.
-file: /courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/37636b2d013d3acf7302e8f0ca17972b_02a_jain.pdf
+file: /ol-ocw-studio-app/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/37636b2d013d3acf7302e8f0ca17972b_02a_jain.pdf
 file_size: 4593246
 file_type: application/pdf
 learning_resource_types:
